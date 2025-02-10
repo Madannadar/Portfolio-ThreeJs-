@@ -136,7 +136,7 @@ export const navLinks = [
       desc: 'An frontend project that uses youtubes api for fetching data and showing them, as this project was simple in making i added new feature in the project',
       subdesc:
         'I created a YouTube frontend site using React to replicate the core features of the popular video-sharing platform. By leveraging React component-based architecture, I was able to design a dynamic and responsive UI that mimics the look and feel of YouTube, including elements like video thumbnails, search functionality, and video details. React efficient state management allows for seamless user interaction, while components are easily reusable, making the app highly maintainable and scalable. This project provides a solid foundation for any further development of a video-sharing platform or integration with APIs to fetch real-time content.',
-      href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
+      href: 'https://youtube-clone-react-gray.vercel.app/',
       texture: '/textures/project/project3.mp4',
       logo: '/assets/project-logo3.png',
       logoStyle: {
@@ -175,7 +175,7 @@ export const navLinks = [
       desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
       subdesc:
         'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
-      href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+      href: 'https://fieldrentals.netlify.app/',
       texture: '/textures/project/project4.mp4',
       logo: '/assets/project-logo4.png',
       logoStyle: {
@@ -208,11 +208,11 @@ export const navLinks = [
       ],
     },
     {
-      title: 'Imaginify - AI Photo Manipulation App',
-      desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
+      title: 'Spotify Clone with admin page',
+      desc: 'A project where we can listen to music and also we can add songs to the database and also we can delete the songs from the database, i learned the use of admin page and how to integrate it this full stack project is a great learning experience for me.',
       subdesc:
-        'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
-      href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
+        'In this project i used React for frontend and for admin page and used mongo db for database and express for backend with cors and node js. Frist run "https://spotify-backend-1q7d.onrender.com/" the backend server then run the frontend and admin "https://spotifyadminpage.vercel.app/" ',
+      href: 'https://spotifyfrontend.vercel.app/',
       texture: '/textures/project/project5.mp4',
       logo: '/assets/project-logo5.png',
       logoStyle: {
