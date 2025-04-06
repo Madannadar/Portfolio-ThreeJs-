@@ -58,6 +58,80 @@ export const navLinks = [
   
   export const myProjects = [
     {
+      title: 'Ai Interview Preperation website',
+      desc: 'A project where user can create a interview and after that take the interview and also can see the result of the interview',
+      subdesc:
+        'This is achived using react as the frontend firebase as the backend , google gminai for generating the interview and vapi ai for asking the required questions that is mentions in its workflow and interacting with the user like a real user',
+      href: 'https://interview-prep-with-ai.vercel.app/',
+      texture: '/textures/project/project5.mp4',
+      logo: '/assets/project-logo5.png',
+      logoStyle: {
+        backgroundColor: '#1C1A43',
+        border: '0.2px solid #252262',
+        boxShadow: '0px 0px 60px 0px #635BFF4D',
+      },
+      spotlight: '/assets/spotlight5.png',
+      tags: [
+        {
+          id: 1,
+          name: 'React.js',
+          path: '/assets/react.svg',
+        },
+        {
+          id: 2,
+          name: 'TailwindCSS',
+          path: 'assets/tailwindcss.png',
+        },
+        {
+          id: 3,
+          name: 'TypeScript',
+          path: '/assets/typescript.png',
+        },
+        {
+          id: 4,
+          name: 'Framer Motion',
+          path: '/assets/framer.png',
+        },
+      ],
+    },
+    {
+      title: 'FieldRental',
+      desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
+      subdesc:
+        'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
+      href: 'https://agri-rent-hub.vercel.app/',
+      texture: '/textures/project/project4.mp4',
+      logo: '/assets/project-logo4.png',
+      logoStyle: {
+        backgroundColor: '#0E1F38',
+        border: '0.2px solid #0E2D58',
+        boxShadow: '0px 0px 60px 0px #2F67B64D',
+      },
+      spotlight: '/assets/spotlight4.png',
+      tags: [
+        {
+          id: 1,
+          name: 'React.js',
+          path: '/assets/react.svg',
+        },
+        {
+          id: 2,
+          name: 'TailwindCSS',
+          path: 'assets/tailwindcss.png',
+        },
+        {
+          id: 3,
+          name: 'TypeScript',
+          path: '/assets/typescript.png',
+        },
+        {
+          id: 4,
+          name: 'Framer Motion',
+          path: '/assets/framer.png',
+        },
+      ],
+    },
+    {
       title: 'SIES Placement List Display',
       desc: 'SIES placement list / SIES T&P Cell, is a project entrusted by one of my seniors who is a member of the placement cell and wanted to build a better site to show all the placed studenets to the world.',
       subdesc:
@@ -95,19 +169,19 @@ export const navLinks = [
       ],
     },
     {
-      title: 'Pintrest Clone',
-      desc: 'Pintrest clone is a project that i wanted to make just because of its complex structure, features, and file handeling',
+      title: 'Spotify Clone with admin page',
+      desc: 'A project where we can listen to music and also we can add songs to the database and also we can delete the songs from the database, i learned the use of admin page and how to integrate it this full stack project is a great learning experience for me.',
       subdesc:
-        'I built the project using React for the front-end to create an interactive and dynamic user interface. React’s component-based architecture made it easy to structure the app and handle state management, enabling smooth user interactions. This is especially important for a visually-driven platform like Pinterest, where efficient rendering and responsiveness are key to providing a great user experience.',
-      href: 'https://pinterest-clone-od14.onrender.com',
-      texture: '/textures/project/pintrestVideo.mp4',
-      logo: '/assets/project-logo2.png',
+        'In this project i used React for frontend and for admin page and used mongo db for database and express for backend with cors and node js. Frist run "https://spotify-backend-1q7d.onrender.com/" the backend server then run the frontend and admin "https://spotifyadminpage.vercel.app/" ',
+      href: 'https://spotifyfrontend.vercel.app/',
+      texture: '/textures/project/project5.mp4',
+      logo: '/assets/project-logo5.png',
       logoStyle: {
-        backgroundColor: '#13202F',
-        border: '0.2px solid #17293E',
-        boxShadow: '0px 0px 60px 0px #2F6DB54D',
+        backgroundColor: '#1C1A43',
+        border: '0.2px solid #252262',
+        boxShadow: '0px 0px 60px 0px #635BFF4D',
       },
-      spotlight: '/assets/spotlight2.png',
+      spotlight: '/assets/spotlight5.png',
       tags: [
         {
           id: 1,
@@ -171,19 +245,19 @@ export const navLinks = [
       ],
     },
     {
-      title: 'FieldRental',
-      desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
+      title: 'Pintrest Clone',
+      desc: 'Pintrest clone is a project that i wanted to make just because of its complex structure, features, and file handeling',
       subdesc:
-        'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
-      href: 'https://fieldrentals.netlify.app/',
-      texture: '/textures/project/project4.mp4',
-      logo: '/assets/project-logo4.png',
+        'I built the project using React for the front-end to create an interactive and dynamic user interface. React’s component-based architecture made it easy to structure the app and handle state management, enabling smooth user interactions. This is especially important for a visually-driven platform like Pinterest, where efficient rendering and responsiveness are key to providing a great user experience.',
+      href: 'https://pinterest-clone-od14.onrender.com',
+      texture: '/textures/project/pintrestVideo.mp4',
+      logo: '/assets/project-logo2.png',
       logoStyle: {
-        backgroundColor: '#0E1F38',
-        border: '0.2px solid #0E2D58',
-        boxShadow: '0px 0px 60px 0px #2F67B64D',
+        backgroundColor: '#13202F',
+        border: '0.2px solid #17293E',
+        boxShadow: '0px 0px 60px 0px #2F6DB54D',
       },
-      spotlight: '/assets/spotlight4.png',
+      spotlight: '/assets/spotlight2.png',
       tags: [
         {
           id: 1,
@@ -207,43 +281,8 @@ export const navLinks = [
         },
       ],
     },
-    {
-      title: 'Spotify Clone with admin page',
-      desc: 'A project where we can listen to music and also we can add songs to the database and also we can delete the songs from the database, i learned the use of admin page and how to integrate it this full stack project is a great learning experience for me.',
-      subdesc:
-        'In this project i used React for frontend and for admin page and used mongo db for database and express for backend with cors and node js. Frist run "https://spotify-backend-1q7d.onrender.com/" the backend server then run the frontend and admin "https://spotifyadminpage.vercel.app/" ',
-      href: 'https://spotifyfrontend.vercel.app/',
-      texture: '/textures/project/project5.mp4',
-      logo: '/assets/project-logo5.png',
-      logoStyle: {
-        backgroundColor: '#1C1A43',
-        border: '0.2px solid #252262',
-        boxShadow: '0px 0px 60px 0px #635BFF4D',
-      },
-      spotlight: '/assets/spotlight5.png',
-      tags: [
-        {
-          id: 1,
-          name: 'React.js',
-          path: '/assets/react.svg',
-        },
-        {
-          id: 2,
-          name: 'TailwindCSS',
-          path: 'assets/tailwindcss.png',
-        },
-        {
-          id: 3,
-          name: 'TypeScript',
-          path: '/assets/typescript.png',
-        },
-        {
-          id: 4,
-          name: 'Framer Motion',
-          path: '/assets/framer.png',
-        },
-      ],
-    },
+    
+    
   ];
   
   export const calculateSizes = (isSmall, isMobile, isTablet) => {
@@ -260,16 +299,25 @@ export const navLinks = [
   export const workExperiences = [
     {
       id: 1,
-      name: 'FieldRentals',
+      name: 'AI INTERN At IBM',
       pos: 'Team member',
-      duration: 'Sep 2024 - Oct 2024',
-      title: "A React project that solves the problem of farmers who do not have the resources to buy their own website.Also won second price at project presentation competition Cognition",
+      duration: 'june 2024 - july 2024',
+      title: "I was working as a AI intern at IBM, where I am learning about AI , IBM's softwars on ai build a chat bot and its applications in various fields. I am also working on a project that involves using AI to improve the efficiency of a specific process.",
       icon: '/assets/framer.svg',
       animation: 'victory',
     },
     {
       id: 2,
-      name: 'Sies Placement List project',
+      name: 'Won 2nd price in Cognition project presentation competition at sies nerul',
+      pos: 'web developer member',
+      duration: 'sep 2024 - nov 2024',
+      title: "Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.",
+      icon: '/assets/notion.svg',
+      animation: 'clapping',
+    },
+    {
+      id: 3,
+      name: 'Web Developer Intern at SIES',
       pos: 'Lead Web Developer',
       duration: 'Nov 2024 - Jan 2024',
       title: "SIES placement list / SIES T&P Cell, is a project entrusted by one of my seniors who is a member of the placement cell and wanted to build a better site to show all the placed studenets to the world.",
@@ -277,21 +325,12 @@ export const navLinks = [
       animation: 'clapping',
     },
     {
-      id: 3,
-      name: 'Youtube Frontend Site',
-      pos: 'Solo project',
-      duration: 'Dec 2024 - Jan 2025',
-      title: "I build this project for its api handeling and for frontend and i added some features on it.",
-      icon: '/assets/notion.svg',
-      animation: 'victory',
-    },
-    {
       id: 4,
-      name: 'Pintrest Clone',
-      pos: 'Solo project',
-      duration: 'Dec 2024 - present',
-      title: "Pintrest clone is a project that i wanted to make just because of its complex structure, features, and file handeling.",
-      icon: '/assets/notion.svg',
-      animation: 'salute',
+      name: 'Won 3rd price on an XR hackathon at kjsomaya college of engineering vidyavihar',
+      pos: 'Lead AR developer',
+      duration: '18 feb 2025 - 19 Feb 2025',
+      title: "I build  a ar web application where it will be used in a museum where the user can scan the qr code and see the 3d model of the object in the museum and also see the details of the object.",
+      icon: '/assets/framer.svg',
+      animation: 'victory',
     },
   ];
