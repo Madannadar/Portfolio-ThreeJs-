@@ -6,7 +6,7 @@ import { useMediaQuery } from 'react-responsive';
 import { calculateSizes } from '../constants';
 // import {Leva, useControls} from 'leva'
  // provides the bar that we use to toggle and find the best spot to place the 3d object
-import HackerRoom from '../components/hackerRoom';
+import HackerRoom from '../components/HackerRoom';
 import Target from '../components/target';
 import CanvasLoader from '../components/CanvasLoader'
 import ReactLogo from '../components/ReactLogo';
