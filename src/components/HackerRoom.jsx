@@ -1,6 +1,6 @@
 import { useGLTF, useTexture } from '@react-three/drei';
 
-const hackerRoom = (props) => {
+const HackerRoom = (props) => {
   const { nodes, materials } = useGLTF('/models/hacker-room.glb');
 
   const monitortxt = useTexture('textures/desk/monitor.png');
@@ -33,4 +33,4 @@ const hackerRoom = (props) => {
 }
 useGLTF.preload('/models/hacker-room.glb');
 
-export default hackerRoom
+export default HackerRoom
