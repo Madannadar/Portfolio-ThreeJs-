@@ -331,6 +331,6 @@ export const navLinks = [
       duration: '18 feb 2025 - 19 Feb 2025',
       title: "I build  a ar web application where it will be used in a museum where the user can scan the qr code and see the 3d model of the object in the museum and also see the details of the object.",
       icon: '/assets/framer.svg',
-      animation: 'victory',
+      animation: 'salute',
     },
   ];
