@@ -131,43 +131,43 @@ export const navLinks = [
         },
       ],
     },
-    {
-      title: 'SIES Placement List Display',
-      desc: 'SIES placement list / SIES T&P Cell, is a project entrusted by one of my seniors who is a member of the placement cell and wanted to build a better site to show all the placed studenets to the world.',
-      subdesc:
-        'Build a Responsive JS project that uses Mongoo db for database, EXPRESS acting as the bridge between frontend and database, UUID to generate unique identifiers without requiring a centralized authority in my case it was used to give UUIDs for file upload, BCRYPT for hashing the password before saving it to the database, AXIOS to make http request from browser to server, JSW for token generater and MULTER for storing the image locally ',
-      href: 'https://github.com/Madannadar/clg_placement_project.git',
-      texture: '/textures/project/sies_placement_video.mp4',
-      logo: '/assets/project-logo1.png',
-      logoStyle: {
-        backgroundColor: '#2A1816',
-        border: '0.2px solid #36201D',
-        boxShadow: '0px 0px 60px 0px #AA3C304D',
-      },
-      spotlight: '/assets/spotlight1.png',
-      tags: [
-        {
-          id: 1,
-          name: 'JavaScript',
-          path: '/assets/JavaScript-Symbol.png',
-        },
-        {
-          id: 2,
-          name: 'TailwindCSS',
-          path: 'assets/tailwindcss.png',
-        },
-        {
-          id: 3,
-          name: 'TypeScript',
-          path: '/assets/typescript.png',
-        },
-        {
-          id: 4,
-          name: 'Framer Motion',
-          path: '/assets/framer.png',
-        },
-      ],
-    },
+    // {
+    //   title: 'SIES Placement List Display',
+    //   desc: 'SIES placement list / SIES T&P Cell, is a project entrusted by one of my seniors who is a member of the placement cell and wanted to build a better site to show all the placed studenets to the world.',
+    //   subdesc:
+    //     'Build a Responsive JS project that uses Mongoo db for database, EXPRESS acting as the bridge between frontend and database, UUID to generate unique identifiers without requiring a centralized authority in my case it was used to give UUIDs for file upload, BCRYPT for hashing the password before saving it to the database, AXIOS to make http request from browser to server, JSW for token generater and MULTER for storing the image locally ',
+    //   href: 'https://github.com/Madannadar/clg_placement_project.git',
+    //   texture: '/textures/project/sies_placement_video.mp4',
+    //   logo: '/assets/project-logo1.png',
+    //   logoStyle: {
+    //     backgroundColor: '#2A1816',
+    //     border: '0.2px solid #36201D',
+    //     boxShadow: '0px 0px 60px 0px #AA3C304D',
+    //   },
+    //   spotlight: '/assets/spotlight1.png',
+    //   tags: [
+    //     {
+    //       id: 1,
+    //       name: 'JavaScript',
+    //       path: '/assets/JavaScript-Symbol.png',
+    //     },
+    //     {
+    //       id: 2,
+    //       name: 'TailwindCSS',
+    //       path: 'assets/tailwindcss.png',
+    //     },
+    //     {
+    //       id: 3,
+    //       name: 'TypeScript',
+    //       path: '/assets/typescript.png',
+    //     },
+    //     {
+    //       id: 4,
+    //       name: 'Framer Motion',
+    //       path: '/assets/framer.png',
+    //     },
+    //   ],
+    // },
     {
       title: 'Spotify Clone with admin page',
       desc: 'A project where we can listen to music and also we can add songs to the database and also we can delete the songs from the database, i learned the use of admin page and how to integrate it this full stack project is a great learning experience for me.',
@@ -315,15 +315,15 @@ export const navLinks = [
       icon: '/assets/notion.svg',
       animation: 'clapping',
     },
-    {
-      id: 3,
-      name: 'Web Developer Intern at SIES',
-      pos: 'Lead Web Developer',
-      duration: 'Nov 2024 - Jan 2024',
-      title: "SIES placement list / SIES T&P Cell, is a project entrusted by one of my seniors who is a member of the placement cell and wanted to build a better site to show all the placed studenets to the world.",
-      icon: '/assets/figma.svg',
-      animation: 'clapping',
-    },
+    // {
+    //   id: 3,
+    //   name: 'Web Developer Intern at SIES',
+    //   pos: 'Lead Web Developer',
+    //   duration: 'Nov 2024 - Jan 2024',
+    //   title: "SIES placement list / SIES T&P Cell, is a project entrusted by one of my seniors who is a member of the placement cell and wanted to build a better site to show all the placed studenets to the world.",
+    //   icon: '/assets/figma.svg',
+    //   animation: 'clapping',
+    // },
     {
       id: 4,
       name: 'Won 3rd price on an XR hackathon at kjsomaya college of engineering vidyavihar',
