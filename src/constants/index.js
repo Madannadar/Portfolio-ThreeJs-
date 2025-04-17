@@ -96,9 +96,9 @@ export const navLinks = [
     },
     {
       title: 'FieldRental',
-      desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
+      desc: 'A platform for farmers who wants farming equipment on rent and also for the people who wants to give their farming equipment on rent',
       subdesc:
-        'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
+        'This is a project that i build using react for frontend and firebase for backend, used firebase for authentication and i18n for internationalization of the project',
       href: 'https://agri-rent-hub.vercel.app/',
       texture: '/textures/project/project4.mp4',
       logo: '/assets/project-logo4.png',
