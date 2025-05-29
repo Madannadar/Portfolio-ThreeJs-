@@ -98,7 +98,7 @@ export const navLinks = [
       title: 'FieldRental',
       desc: 'A platform for farmers who wants farming equipment on rent and also for the people who wants to give their farming equipment on rent',
       subdesc:
-        'This is a project that i build using react for frontend and firebase for backend, used firebase for authentication and i18n for internationalization of the project',
+        'This is a project that i build using react for frontend and firebase for backend, used firebase for authentication and i18n for internationalization of the project, link to my project is given below',
       href: 'https://agri-rent-hub.vercel.app/',
       texture: '/textures/project/project4.mp4',
       logo: '/assets/project-logo4.png',
