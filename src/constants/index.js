@@ -324,6 +324,7 @@ export const navLinks = [
     //   icon: '/assets/figma.svg',
     //   animation: 'clapping',
     // },
+    
     {
       id: 4,
       name: 'Won 3rd price on an XR hackathon at kjsomaya college of engineering vidyavihar',
